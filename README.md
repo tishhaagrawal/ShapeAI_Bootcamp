@@ -1,2 +1,2 @@
 # ShapeAI_Bootcamp
-Final project by Tishha Agarwal
+WEB DEV BOOTCAMP FINAL PROJECT BY TISHHA AGRAWAL
